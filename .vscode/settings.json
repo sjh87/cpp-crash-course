@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.lgr": "ledger",
+        "cstdio": "cpp"
+    }
+}
